@@ -1,0 +1,8 @@
+{
+    "name": "Oraia_website",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "nyazj",
+    "contributors": [],
+    "dependencies": {}
+}
